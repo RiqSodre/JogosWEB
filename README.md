@@ -1,2 +1,2 @@
 # JogosWEB
-[Criação de arquivo HTML](https://riqsodre.github.io/JogosWEB/index2.html)
+[Criação de arquivo HTML](https://riqsodre.github.io/JogosWEB/AC2/index2.html)
